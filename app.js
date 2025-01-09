@@ -18,7 +18,7 @@ taskform.addEventListener("submit",function(event)
         
         taskItem.addEventListener("click",function(){
         
-            this.classList.toggle("completed")//this completed can be use as class from css
+            this.classList.toggle("completed")//this completed can be use as class ".completed{}" on css
            
         }
     )
